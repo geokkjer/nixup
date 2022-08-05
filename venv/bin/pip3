@@ -1,4 +1,4 @@
-#!/home/geir/nixosdotfiles/scripts/nixup/venv/bin/python
+#!/home/geir/code/python/nixup/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
